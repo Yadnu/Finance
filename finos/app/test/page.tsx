@@ -1,6 +1,6 @@
 const TestPage = () =>{
     return (
-        <div>
+        <div className="bg-red-600 text-green-500">
             Test Page
         </div>
     )
